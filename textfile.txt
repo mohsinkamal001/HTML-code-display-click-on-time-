@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-kjfhfsasf;jsdk
-=======
-kjfhfsasf;jsdk
-text from raida
->>>>>>> Raida
